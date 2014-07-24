@@ -1,0 +1,3 @@
+{
+    "run_list": [ "apt", "java::openjdk", "tomcat::default" ]
+}
